@@ -1,0 +1,21 @@
+body {
+	font-family:Helvetica;
+	color:#ffffff;
+	background: #000;
+}
+h1{
+font-size: 60px;
+}
+#namelogo{
+text-align: center;
+font-size: 80px;
+}
+p{
+font-size: 20px;
+}
+#by{
+text-align: center;
+font-size: 40px;
+}
+#v{
+}
